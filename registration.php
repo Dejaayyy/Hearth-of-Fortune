@@ -78,7 +78,7 @@
             <div class="form-group">
                 <input type="submit" name="submit" class="btn btn-primary" value="Register">
             </div>
-            <a href="index.php" class="btn btn-primary">Go back</a>
+            <a href="index.html" class="btn btn-primary">Go back</a>
             <a href="game.php" class="btn btn-primary">Go to Game</a>
         </form>
         

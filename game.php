@@ -128,7 +128,7 @@
             document.getElementById("hintclue").classList.remove("active");
         }
         function logout() {
-            window.location.href = 'index.php';
+            window.location.href = 'index.html';
         }
 
         function toggleMusic() {

@@ -234,6 +234,25 @@ body {
     /* background-color: #2980b9; */
 }
 
+#clue-button1 {
+    margin: 5px;
+    font-family: 'Bebas Neue';
+    padding: 10px 20px;
+    cursor: pointer;
+    background: #E87D95;
+    color: #000;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+
+#clue-button1:hover {
+    background: #AF6686;
+    color: #fff;
+    /* background-color: #2980b9; */
+}
+
+
 .modal .overlay {
     position: fixed;
     top: 0;
